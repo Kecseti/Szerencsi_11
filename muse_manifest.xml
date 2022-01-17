@@ -1,0 +1,125 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="immunactive.hu" resolutions="1x" timestamp="1642410391182">
+  <folder name="css">
+    <file name="site_global.css" crc="3895021738"/>
+    <file name="index.css" crc="94746859" ref="index"/>
+    <file name="fitsport.css" crc="493889012" ref="fitsport"/>
+  </folder>
+  <folder name="assets">
+    <file name="szerencsi_11.mp4" crc="451377901" seo="true" mt="1642409995000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:fitsport"/>
+    <file name="museutils.js" crc="3939489907" ref="index:fitsport"/>
+    <file name="whatinput.js" crc="86476730" ref="index:fitsport"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:fitsport"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:fitsport"/>
+    <file name="jquery.scrolleffects.js" crc="312044820" ref="index:fitsport"/>
+    <file name="require.js" crc="4177726516" ref="index:fitsport"/>
+  </folder>
+  <folder name="images">
+    <file name="pasted-svg-409001x409.svg" crc="469602168" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 409001x409_poster_.png" crc="272387991" ref="index"/>
+    <file name="pasted-svg-466431x479.svg" crc="4270712595" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 466431x479_poster_.png" crc="289127066" ref="index"/>
+    <file name="szerencsi_logo_script.png" crc="4187486882" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="palyazatlogos.png" crc="4074038531" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="szerencsi_logo_script137x60.png" crc="3772495431" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u7398-4.png" crc="4156754499" ref="index"/>
+    <file name="u7586-30.png" crc="3815366019" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:fitsport"/>
+    <file name="u7359.png" crc="102809863" ref="index"/>
+    <file name="u7359-r.png" crc="4101105326" ref="index"/>
+    <file name="u7362.png" crc="4115416020" ref="index"/>
+    <file name="u7362-r.png" crc="4123866962" ref="index"/>
+    <file name="u7365.png" crc="4275935585" ref="index"/>
+    <file name="u7365-r.png" crc="3900946508" ref="index"/>
+    <file name="u7374.png" crc="4276594831" ref="index"/>
+    <file name="u7374-r.png" crc="4216929762" ref="index"/>
+    <file name="u7371.png" crc="4191328064" ref="index"/>
+    <file name="u7371-r.png" crc="4188006420" ref="index"/>
+    <file name="u7368.png" crc="63306512" ref="index"/>
+    <file name="u7368-r.png" crc="3842032468" ref="index"/>
+    <file name="u7383.png" crc="6971253" ref="index"/>
+    <file name="u7383-r.png" crc="3856371509" ref="index"/>
+    <file name="u7386.png" crc="4172270298" ref="index"/>
+    <file name="u7386-r.png" crc="5102784" ref="index"/>
+    <file name="u7380.png" crc="530629688" ref="index"/>
+    <file name="u7380-r.png" crc="3944703299" ref="index"/>
+    <file name="u7389.png" crc="513047286" ref="index"/>
+    <file name="u7389-r.png" crc="245662088" ref="index"/>
+    <file name="u7377.png" crc="219601216" ref="index"/>
+    <file name="u7377-r.png" crc="3865778509" ref="index"/>
+    <file name="u7392.png" crc="4179136304" ref="index"/>
+    <file name="u7392-r.png" crc="4044237694" ref="index"/>
+    <file name="u7577.png" crc="3995404521" ref="index"/>
+    <file name="u7577-r.png" crc="3995404521" ref="index"/>
+    <file name="u7580.png" crc="399125486" ref="index"/>
+    <file name="u7580-r.png" crc="3995404521" ref="index"/>
+    <file name="u7580-m.png" crc="399125486" ref="index"/>
+    <file name="u7395.png" crc="67879565" ref="index"/>
+    <file name="u7395-r.png" crc="374108131" ref="index"/>
+    <file name="szerencsi_logobarna.png" crc="406799582" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u7475-4.png" crc="3964247266" ref="index"/>
+    <file name="u7507-4.png" crc="3964247266" ref="index"/>
+    <file name="u3840-4.png" crc="4018632740" ref="index"/>
+    <file name="u1880-4.png" crc="4018632740" ref="index"/>
+    <file name="pasted-svg-617838x435.svg" crc="532912160" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 617838x435_poster_.png" crc="470552228" ref="index"/>
+    <file name="u7201_states.png" crc="3967352451" ref="index"/>
+    <file name="u7201_states-r.png" crc="313025862" ref="index"/>
+    <file name="u7201_states-a.png" crc="3866519180" ref="index"/>
+    <file name="u7168_states.png" crc="240181895" ref="index"/>
+    <file name="u7168_states-r.png" crc="3821577138" ref="index"/>
+    <file name="u7168_states-a.png" crc="513655867" ref="index"/>
+    <file name="u7204_states.png" crc="253122777" ref="index"/>
+    <file name="u7204_states-r.png" crc="4162512671" ref="index"/>
+    <file name="u7204_states-a.png" crc="35987063" ref="index"/>
+    <file name="u7207_states.png" crc="444649321" ref="index"/>
+    <file name="u7207_states-r.png" crc="507308311" ref="index"/>
+    <file name="u7207_states-a.png" crc="29880515" ref="index"/>
+    <file name="fitsport_01-01.png" crc="3889663499" seo="true" ref="fitsport">
+      <caption webpage="fitsport" alt=""/>
+    </file>
+    <file name="office_memory.png" crc="469818000" seo="true" ref="fitsport">
+      <caption webpage="fitsport" alt=""/>
+    </file>
+    <file name="immunity.png" crc="4147133848" seo="true" ref="fitsport">
+      <caption webpage="fitsport" alt=""/>
+    </file>
+    <file name="nostress.png" crc="3905215267" seo="true" ref="fitsport">
+      <caption webpage="fitsport" alt=""/>
+    </file>
+    <file name="ia_logo.png" crc="3850546175" seo="true" ref="fitsport">
+      <caption webpage="fitsport" alt=""/>
+    </file>
+    <file name="u7066_states.png" crc="490427911" ref="fitsport"/>
+    <file name="u7066_states-r.png" crc="391489843" ref="fitsport"/>
+    <file name="u7070_states.png" crc="4198670041" ref="fitsport"/>
+    <file name="u7070_states-r.png" crc="4201075195" ref="fitsport"/>
+    <file name="u7069_states.png" crc="166922148" ref="fitsport"/>
+    <file name="u7069_states-r.png" crc="3893207680" ref="fitsport"/>
+    <file name="u7068_states.png" crc="4044563034" ref="fitsport"/>
+    <file name="u7068_states-r.png" crc="3760836165" ref="fitsport"/>
+    <file name="u7067.png" crc="126714852" ref="fitsport"/>
+    <file name="u7067-r.png" crc="174356194" ref="fitsport"/>
+  </folder>
+  <file name="index.html" crc="4024829017" seo="true" mt="1642410022865" redirect="true"/>
+  <file name="fitsport.html" crc="341011991" seo="true" mt="1641983003268" redirect="true"/>
+</manifest>
